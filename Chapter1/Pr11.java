@@ -9,7 +9,7 @@ public class Pr11 {
 	public static void main (String[] args) {
 		int x = IBIO.inputInt("Enter a number: ");
 		for (int i = 1; i <= x; i++) { 	
-			IBIO.output("Sean");
+			IBIO.output("Sudarshan");
 		}
 	}
 }
